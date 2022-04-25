@@ -1,0 +1,10 @@
+The sales industry wants to make a promotion for all clients that are legal entities. For this you must display the name of the customers that are legal entity.
+
+customers
+Column	      Type
+id (PK)	      numeric
+name	        character varying (255)
+street	       character varying (255)
+city	        character varying (255)
+state	        char (2)
+credit_limit	numeric
